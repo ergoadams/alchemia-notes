@@ -101,6 +101,7 @@ the laft in the eternal alchemist's laboratory.
 ```
 ![](p4_2.png)  
 ABSCONDITA EST INSIGNE -> Hidden badge  
+[Tyrolean printmaker](https://en.wikipedia.org/wiki/Stephan_Michelspacher)  
 ## Page 5  
 ![](p5_1.png)  
 ```
@@ -137,6 +138,8 @@ the first of each page and word -> clue
 ```  
 ![](p6_2.png)  
 Y -> E?  
+![Barlet's key](https://i.pinimg.com/474x/73/a8/a7/73a8a74f242e2e89188592decefe4c6c--alchemy-symbols-ancient-symbols.jpg)  
+![The four elements](https://www.mun.ca/biology/scarr/Four_elements_in_Alchemy.jpg)  
 ## Page 7  
 ![](p7_1.png)  
 ```
@@ -156,6 +159,10 @@ Y -> E?
 SVPER STELLAE -> Above the stars  
 fifth month -> May  
 Arrange the zodiac signs -> symbols on the bottom  
+[Ancient machine, that Cicero writes about](https://en.wikipedia.org/wiki/Antikythera_mechanism)  
+[The man with the golden nose](https://en.wikipedia.org/wiki/Tycho_Brahe)  
+![](https://www.astro-seek.com/photo-celebrity/15/46/12/tycho-brahe.png)  
+According to Tycho Brahe, the fifth month is Cancer. From Cancer (ΑΠΕΛΛΑΙΟΣ - APELLAIOS) the connections are: ΑΡΤΕΜΙΣΙΟΣ (ARTEMISIOS), ΓΑΜΕΙΛΙΟΣ (GAMEILIOS), ΚΡΑΝΕΙΟΣ (KRANEIOS), ΔΩΔΕΚΑΤΕΥΣ (DODEKATEUS), ΕΥΚΛΕΙΟΣ (EUKLEIOS)  
 ## Page 8  
 ![](p8_1.png)  
 ```
@@ -195,7 +202,7 @@ Substitution cipher?
 ![](p9_2.png)  
 LXXIV -> 74  
 NVMERO SANCTVM -> To the number of the holy  
-[Eratosthene](https://en.wikipedia.org/wiki/Eratosthenes)  
+[Eratosthene](https://en.wikipedia.org/wiki/Eratosthenes) - He is related to finding prime numbers and other cool math stuff  
 Turn numbers to letters in two texts  
 Take the first of each in sequence  
 ## Page 10  
@@ -217,6 +224,8 @@ Take the first of each in sequence
 [Napier's bones](https://en.wikipedia.org/wiki/Napier%27s_bones)  
 [Magus of Combwich](https://en.wikipedia.org/wiki/Thomas_Charnock)  
 [Baresch codex](https://en.wikipedia.org/wiki/Voynich_manuscript)  
+[Seven year island](https://en.wikipedia.org/wiki/Brasil_(mythical_island))  
+[Rock of Mercator](https://en.wikipedia.org/wiki/Rupes_Nigra)  
 MAPPUS MUNDI -> Map of the world  
 ## Page 11  
 ```
@@ -232,7 +241,7 @@ LAPIS PHILOSOPHORUM -> Philosophers' stone
            Add 7 parts tin to the micture and heat gently.
 
             Place the refult in a crucible and mix with
-             powered coppe. A blackening of the mixture
+             powered copper. A blackening of the mixture
                         should be obferved.
 
          Next diftill with a retort and add drops of liquid
